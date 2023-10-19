@@ -10,7 +10,7 @@
 
 ### Target: Past Dues
 
-### 98% Accuracy on the score, see learning curve in notebook. 
+### 98% model Accuracy, see learning curve in notebook. 
 
 Imputer used for NaN data and Removed outliers using Z-Score
 
