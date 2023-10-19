@@ -10,12 +10,13 @@ Credit Card Approval Prediction
 
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
-Premise:
+### Premise:
+
 Credit score cards are a common risk control method in the financial industry. It uses personal information and data submitted by credit card applicants to predict the probability of future defaults and credit card borrowings. The bank is able to decide whether to issue a credit card to the applicant. Credit scores can objectively quantify the magnitude of risk. 
 
 At present, with the development of machine learning algorithms, more predictive methods, such as boosting, random forest, and support vector machines, have been introduced into credit card scoring. However, these methods often do not have good transparency. It may be difficult to provide customers and regulators with a reason for rejection or acceptance.
 
-Our aim is to build a machine learning model to predict if an applicant is a 'good' or 'bad' client.
+***Our aim*** is to build a machine learning model to predict if an applicant is a 'good' or 'bad' client.
 
 
 Approach:
