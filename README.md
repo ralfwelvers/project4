@@ -1,10 +1,10 @@
-Group 5: Team Data Mining Mavericks
+### Group 5: Team Data Mining Mavericks
 Jiahui Yang
 Saber Garibi
 Rajan Patel
 Ralf Welvers
 
-Topic:
+### Topic:
 Credit Card Approval Prediction
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
