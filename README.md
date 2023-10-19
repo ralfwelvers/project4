@@ -10,7 +10,7 @@
 
 ### Target: Past Dues
 
-### 98% model Accuracy, see learning curve in notebook. 
+### 98% model Accuracy, see learning curve in notebook. A discussion of overfitting was made and from the learning curve, we believe that it isn't the case here. 
 
 Imputer used for NaN data and Removed outliers using Z-Score
 
