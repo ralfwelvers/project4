@@ -29,4 +29,4 @@ Each member will try out a ML model, and we will see which model has the highest
 - Rajan Patel: Support Vector Machines
 - Ralf Welvers: K nearest neighbor
 
-The code built by each team member is available for viewing in their respective branch.
+The code built by each team member is available for viewing in their ***respective branch***.
