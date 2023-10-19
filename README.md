@@ -19,12 +19,13 @@ At present, with the development of machine learning algorithms, more predictive
 ***Our aim*** is to build a machine learning model to predict if an applicant is a 'good' or 'bad' client.
 
 
-Approach:
+### Approach:
+
 Each member will try out a ML model, and we will see which model has the highest accuracy, which will determine the final model to use. Models are assigned as follows:
 
-Jiahui Yang: Logistic Regression
-Saber Garibi: Random Forest 
-Rajan Patel: Support Vector Machines
-Ralf Welvers: K nearest neighbor
+- Jiahui Yang: Logistic Regression
+- Saber Garibi: Random Forest 
+- Rajan Patel: Support Vector Machines
+- Ralf Welvers: K nearest neighbor
 
 The code built by each team member is available for viewing in their respective branch.
